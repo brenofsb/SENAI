@@ -6,11 +6,6 @@ Repositório índice para organizar e documentar projetos desenvolvidos durante 
 
 Reunir em um só lugar os projetos do curso, identificar a disciplina relacionada e facilitar o acesso à descrição, às tecnologias e às instruções de cada trabalho.
 
-## Navegação
-
-- [Projetos — Desenvolvimento de Sistemas](#projetos--desenvolvimento-de-sistemas)
-- [Como consultar e executar um projeto](#como-consultar-e-executar-um-projeto)
-
 ## Projetos — Desenvolvimento de Sistemas
 
 | Projeto | Descrição | Tecnologias |
